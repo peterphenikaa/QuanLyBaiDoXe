@@ -1,0 +1,20 @@
+<employees>
+    <employee>
+        <id>1</id>
+        <fullName>John Doe</fullName>
+        <phoneNumber>123456789</phoneNumber>
+        <gender>Male</gender>
+        <address>123 Main St</address>
+        <dateOfBirth>1990-01-01</dateOfBirth>
+        <shift>Morning</shift>
+    </employee>
+    <employee>
+        <id>2</id>
+        <fullName>Jane Smith</fullName>
+        <phoneNumber>987654321</phoneNumber>
+        <gender>Female</gender>
+        <address>456 Oak Rd</address>
+        <dateOfBirth>1992-02-02</dateOfBirth>
+        <shift>Afternoon</shift>
+    </employee>
+</employees>
